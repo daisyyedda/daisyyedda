@@ -10,7 +10,7 @@ I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/chun-ye
 
 ## Learn More
 - 🌱 My most recent project is the lastest version of my personal website, [check it out here!](https://main.dbym3k84goc1r.amplifyapp.com/)
-- ⚡ Fun fact: Outside of tech, I enjoy writing poems and learning foreign languages! ;)
+- ⚡ Fun fact: Outside of tech, I enjoy writing poems and learning foreign languages.
 - 🤖 WIP: Some machine learning side projects.
 - 😄 Pronouns: `She/Her/Hers`
 
@@ -18,5 +18,5 @@ I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/chun-ye
 [![Website Badge](https://img.shields.io/badge/-chunye.com-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://main.dbym3k84goc1r.amplifyapp.com/)](https://main.dbym3k84goc1r.amplifyapp.com/)
 [![Outlook Badge](https://img.shields.io/badge/-chun.ye-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:c42ye@uwaterloo.ca)](mailto:c42ye@uwaterloo.ca)
 # 
-[![Daisy's GitHub stats](https://github-readme-stats.vercel.app/api?username=daisyyedda&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daisyyedda&count_private=true&show_icons=truet&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Daisy's GitHub stats](https://github-readme-stats.vercel.app/api?username=daisyyedda&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daisyyedda&count_private=true&show_icons=truet&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
