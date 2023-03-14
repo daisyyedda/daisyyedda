@@ -1,14 +1,14 @@
-# Nice to meet you, I'm Bonnie! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Nice to meet you, I'm Daisy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a **Computer Science student @ the University of Waterloo**, a **Software Development Engineer @ Amazon**, and I'm aspiring to advance the world of medical tech! <br>
-I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/bonniepeng/) and coffee chats 🍵.
+I'm a **Computer Science student @ University of Waterloo**, **Business Administration student @ Wilfrid Laurier University**, and a **Software Engineer @ Ford Pro**! <br>
+I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/daisyyedda/) and coffee chats 🍵.
 
 ## Tech Stack
 **Web Dev:** TypeScript/JavaScript, React, HTML, CSS/SCSS, Next.js <br>
 **Mobile Dev:** TypeScript/JavaScript, React Native, React Redux, Java, Android SDK, XML, Firebase <br>
 **Other:** SQL, Python, Terraform, C/C++, Figma, Bash, Docker <br>
 ## Learn More
-- 🌱 My most recent project is the 2nd iteration of my personal website, [check it out here!](https://www.bonniepeng.com)
+- 🌱 My most recent project is the 2nd iteration of my personal website, [check it out here!](https://main.dbym3k84goc1r.amplifyapp.com/)
 - ⚡ Fun fact: I'm super passionate about photography... smile! ;)
 - 👯 Learn more about me at **[bonniepeng.com](https://bonniepeng.com/)**
 - 😄 Pronouns: `She/Her/Hers`
