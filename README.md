@@ -11,7 +11,7 @@ I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/chun-ye
 ## Learn More
 - 🌱 My most recent project is the lastest version of my personal website, [check it out here!](https://main.dbym3k84goc1r.amplifyapp.com/)
 - ⚡ Fun fact: Outside of tech, I enjoy writing poems and learning foreign languages.
-- 🤖 WIP: Some machine learning side projects.
+- 🤖 WIP: Some full-stack side projects.
 - 😄 Pronouns: `She/Her/Hers`
 
 [![Linkedin Badge](https://img.shields.io/badge/-@chunye-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chun-ye-5766ba18b/)](https://www.linkedin.com/in/chun-ye-5766ba18b/)
