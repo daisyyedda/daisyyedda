@@ -12,9 +12,10 @@ I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/chun-ye
 - ⚡ Fun fact: Outside of tech, I enjoy writing poems and learning foreign languages! ;)
 - 🤖 WIP: Some Machine Learning side projects.
 - 😄 Pronouns: `She/Her/Hers`
+<br>
 [![Linkedin Badge](https://img.shields.io/badge/-@chunye-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chun-ye-5766ba18b/)](https://www.linkedin.com/in/chun-ye-5766ba18b/)
 [![Website Badge](https://img.shields.io/badge/-bonniepeng.com-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://bonniepeng.com)](https://bonniepeng.com)
-[![Outlook Badge](https://img.shields.io/badge/-bonnie.peng-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:bonnie.peng@uwaterloo.ca)](mailto:bonnie.peng@uwaterloo.ca)
+[![Outlook Badge](https://img.shields.io/badge/-bonnie.peng-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:c42ye@uwaterloo.ca)](mailto:c42ye@uwaterloo.ca)
 # 
-[![Bonnie's Github Stats](https://github-readme-stats.vercel.app/api?username=bonniepeng2002&hide=contribs,issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Bonnie's Github Stats](https://github-readme-stats.vercel.app/api?username=daisyyedda&hide=contribs,issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonniepeng2002&layout=compact&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
