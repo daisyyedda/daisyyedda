@@ -4,13 +4,14 @@ I'm a **Computer Science student @ University of Waterloo**, **Business Administ
 I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/chun-ye-5766ba18b/) and coffee chats 🍵.
 
 ## Tech Stack
-**Web Dev:** TypeScript/JavaScript, React, HTML, CSS/SCSS, Next.js <br>
-**Mobile Dev:** TypeScript/JavaScript, React Native, React Redux, Java, Android SDK, XML, Firebase <br>
-**Other:** SQL, Python, Terraform, C/C++, Figma, Bash, Docker <br>
+**Languages:** Bash, C, C++, CSS, Go, HTML, Java, JavaScript, Python, R, Scheme, SQL, Transact-SQL, TypeScript <br>
+**Frameworks:** Bootstrap, Express.js, Next.js, Node.js, React, Spring Boot, Vue <br>
+**Technologies:** AWS, Firebase, GCP, Git, Gradle, Linux, MongoDB, MySQL, REST APIs, PostgreSQL, Postman, Tekton <br>
+
 ## Learn More
 - 🌱 My most recent project is the lastest version of my personal website, [check it out here!](https://main.dbym3k84goc1r.amplifyapp.com/)
 - ⚡ Fun fact: Outside of tech, I enjoy writing poems and learning foreign languages! ;)
-- 🤖 WIP: Some Machine Learning side projects.
+- 🤖 WIP: Some machine learning side projects.
 - 😄 Pronouns: `She/Her/Hers`
 
 [![Linkedin Badge](https://img.shields.io/badge/-@chunye-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chun-ye-5766ba18b/)](https://www.linkedin.com/in/chun-ye-5766ba18b/)
