@@ -16,5 +16,5 @@ I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/chun-ye
 [![Website Badge](https://img.shields.io/badge/-bonniepeng.com-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://bonniepeng.com)](https://bonniepeng.com)
 [![Outlook Badge](https://img.shields.io/badge/-bonnie.peng-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:c42ye@uwaterloo.ca)](mailto:c42ye@uwaterloo.ca)
 # 
-[![Bonnie's Github Stats](https://github-readme-stats.vercel.app/api?username=daisyyedda&hide=contribs,issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonniepeng2002&layout=compact&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Daisy's Github Stats](https://github-readme-stats.vercel.app/api?username=daisyyedda&hide=contribs,issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daisyyedda&layout=compact&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
