@@ -19,4 +19,4 @@ I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/chun-ye
 [![Outlook Badge](https://img.shields.io/badge/-chun.ye-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:c42ye@uwaterloo.ca)](mailto:c42ye@uwaterloo.ca)
 # 
 [![Daisy's GitHub stats](https://github-readme-stats.vercel.app/api?username=daisyyedda&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daisyyedda&count_private=true&show_icons=truet&theme=algolia&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daisyyedda&count_private=true&show_icons=truet&layout=compact&theme=algolia&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
