@@ -1,4 +1,4 @@
-# Nice to meet you, I'm Daisy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Nice to meet you, I'm Chun! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a **Computer Science student** @ **University of Waterloo**, **Business Administration student** @ **Wilfrid Laurier University**, and a **Software Engineer** @ **Ford Pro**! <br>
 I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/chun-ye-5766ba18b/) and coffee chats 🍵.
