@@ -9,7 +9,7 @@ I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/chun-ye
 **Technologies:** AWS, Firebase, GCP, Git, Gradle, Linux, MongoDB, MySQL, REST APIs, PostgreSQL, Postman, Tekton. <br>
 
 ## Learn More
-- 🌱 My most recent project is the lastest version of my personal website, [check it out here!](https://main.dbym3k84goc1r.amplifyapp.com/)
+- 🌱 Check out my personal website [here!](https://main.dbym3k84goc1r.amplifyapp.com/)
 - ⚡ Fun fact: Outside of tech, I enjoy writing poems and learning foreign languages.
 - 🤖 WIP: Some full-stack side projects.
 - 😄 Pronouns: `She/Her/Hers`
