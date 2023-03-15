@@ -14,9 +14,9 @@ I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/chun-ye
 - 🤖 WIP: Some full-stack side projects.
 - 😄 Pronouns: `She/Her/Hers`
 
-[![Linkedin Badge](https://img.shields.io/badge/-@chunye-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chun-ye-5766ba18b/)](https://www.linkedin.com/in/chun-ye-5766ba18b/)
-[![Website Badge](https://img.shields.io/badge/-chunye.com-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://main.dbym3k84goc1r.amplifyapp.com/)](https://main.dbym3k84goc1r.amplifyapp.com/)
-[![Outlook Badge](https://img.shields.io/badge/-chun.ye-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:c42ye@uwaterloo.ca)](mailto:c42ye@uwaterloo.ca)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chun-ye-5766ba18b/)](https://www.linkedin.com/in/chun-ye-5766ba18b/)
+[![Website Badge](https://img.shields.io/badge/-Website-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://main.dbym3k84goc1r.amplifyapp.com/)](https://main.dbym3k84goc1r.amplifyapp.com/)
+[![Outlook Badge](https://img.shields.io/badge/-Email-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:c42ye@uwaterloo.ca)](mailto:c42ye@uwaterloo.ca)
 # 
 [![Daisy's GitHub stats](https://github-readme-stats.vercel.app/api?username=daisyyedda&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daisyyedda&count_private=true&show_icons=truet&layout=compact&theme=algolia&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
