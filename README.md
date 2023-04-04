@@ -10,8 +10,8 @@ I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/chun-ye
 
 ## Learn More
 - 🌱 Check out my personal website [here!](https://main.dbym3k84goc1r.amplifyapp.com/)
-- ⚡ Fun fact: Outside of tech, I enjoy writing poems and learning foreign languages.
-- 🤖 WIP: Some full-stack side projects.
+- ⚡ Fun fact: Outside of tech, I enjoy writing poems, sketching, and learning foreign languages.
+- 🤖 WIP: Some full-stack and ML side projects.
 - 😄 Pronouns: `She/Her/Hers`
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chun-ye-5766ba18b/)](https://www.linkedin.com/in/chun-ye-5766ba18b/)
