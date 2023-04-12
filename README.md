@@ -6,7 +6,7 @@ I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/chun-ye
 ## Tech Stack
 **Languages:** Bash, C, C++, CSS, Go, HTML, Java, JavaScript, Python, R, Scheme, SQL, Transact-SQL, TypeScript. <br>
 **Frameworks:** Bootstrap, Express.js, Next.js, Node.js, React, Spring Boot, Vue. <br>
-**Technologies:** AWS, Docker, Firebase, GCP, Git, Gradle, Kubernetes, Linux, MongoDB, MySQL, REST APIs, PostgreSQL, Postman, Tekton. <br>
+**Technologies:** AWS, Docker, Firebase, GCP, Git, Gradle, Kubernetes, Linux, MongoDB, MySQL, PostgreSQL, Postman, Tekton. <br>
 
 ## Learn More
 - 🌱 Check out my personal website [here!](https://main.dbym3k84goc1r.amplifyapp.com/)
