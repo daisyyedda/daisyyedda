@@ -1,7 +1,7 @@
-# Nice to meet you, I'm Chun! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm Daisy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 I study **Computer Science** @ **University of Waterloo** and **Business Administration** @ **Wilfrid Laurier University**. <br>
-I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/chun-ye-5766ba18b/) and coffee chats 🍵.
+I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/chun-ye-5766ba18b/) and coffee chats.
 
 ## Tech Stack
 **Languages:** Bash, C, C++, CSS, Go, HTML, Java, JavaScript, Python, R, Scheme, SQL, Transact-SQL, TypeScript. <br>
