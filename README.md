@@ -4,11 +4,11 @@ I study **Computer Science** @ **University of Waterloo** and **Business Adminis
 I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/chun-ye-5766ba18b/) and coffee chats. <br>
 
 ## Work Experience
-Software Engineering Intern, Public Markets @ **CPP Investments**.
-Software Engineering Intern @ **Ford Pro**.
-Engineering Coordinator @ **TechNova**.
-Business Analyst @ **Bank of Montreal**.
-Consultant @ **Laurier Consulting Group**.
+Software Engineering Intern, Public Markets @ **CPP Investments**. <br>
+Software Engineering Intern @ **Ford Pro**. <br>
+Engineering Coordinator @ **TechNova**. <br>
+Business Analyst @ **Bank of Montreal**. <br>
+Consultant @ **Laurier Consulting Group**. <br>
 Associate Consultant Intern @ **RecruitFirst**. <br>
 
 ## Tech Stack
