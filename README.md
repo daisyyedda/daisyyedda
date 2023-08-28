@@ -1,7 +1,15 @@
 # Hi, I'm Daisy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 I study **Computer Science** @ **University of Waterloo** and **Business Administration** @ **Wilfrid Laurier University**. <br>
-I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/chun-ye-5766ba18b/) and coffee chats.
+I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/chun-ye-5766ba18b/) and coffee chats. <br>
+
+## Work Experience
+Software Engineering Intern, Public Markets @ **CPP Investments**.
+Software Engineering Intern @ **Ford Pro**.
+Engineering Coordinator @ **TechNova**.
+Business Analyst @ **Bank of Montreal**.
+Consultant @ **Laurier Consulting Group**.
+Associate Consultant Intern @ **RecruitFirst**. <br>
 
 ## Tech Stack
 **Languages:** Bash, C, C++, CSS, Go, HTML, Java, JavaScript, Python, R, Scheme, SQL, Transact-SQL, TypeScript. <br>
@@ -11,5 +19,5 @@ I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/chun-ye
 ## Learn More
 - 🌱 Check out my personal website [here!](https://www.chun-ye.ca/)
 - ⚡ Fun fact: Outside of tech, I enjoy writing poems, sketching, and learning foreign languages.
-- 🤖 WIP: Some full-stack and ML side projects.
+- 🤖 I am currently working on a Discord bot and learning about computer networks.
 - 😄 Pronouns: `She/Her/Hers`
