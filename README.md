@@ -1,7 +1,7 @@
 # Hi, I'm Daisy 👋
 
 I study **Computer Science** @ **University of Waterloo** and **Business Administration** @ **Wilfrid Laurier University**. <br>
-I'm actively seeking **2024 SWE** internships in **US/Canada** and open to connections on [LinkedIn](https://www.linkedin.com/in/chun-ye-5766ba18b/). <br>
+I'm actively seeking **2024 SWE** internships in **US/Canada** and open to connections on [LinkedIn](https://www.linkedin.com/in/chun--ye/). <br>
 
 ## Tech Experience
 - Software Engineering Intern, Public Markets @ **CPP Investments**. <br>
