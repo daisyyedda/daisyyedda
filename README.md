@@ -6,7 +6,7 @@ I'm actively seeking **2024 SWE** internships in **US/Canada** and open to conne
 ## Tech Experience
 - Software Engineering Intern, Public Markets @ **CPP Investments**. <br>
 - Software Engineering Intern @ **Ford Pro**. <br>
-- Engineering Coordinator @ **TechNova**. <br>
+- Software Engineer @ **TechNova**. <br> 
 
 ## Business Experience
 - Business Analyst @ **Bank of Montreal**. <br>
@@ -21,5 +21,5 @@ I'm actively seeking **2024 SWE** internships in **US/Canada** and open to conne
 ## Learn More
 - 🌱 Check out my personal website [here](https://chun-ye.ca/)!
 - ⚡ Outside of tech, I enjoy writing poems, sketching, and learning foreign languages.
-- 🤖 I am currently working on a Discord bot and learning about computer networks.
+- 🤖 I am currently learning computer networks and cloud infrastructure.
 - 😄 Pronouns: `She/Her/Hers`
