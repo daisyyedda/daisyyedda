@@ -4,7 +4,7 @@ I study **Computer Science** @ **University of Waterloo** and **Business Adminis
 I'm actively seeking **2024 SWE** internships in **US/Canada** and open to connections on [LinkedIn](https://www.linkedin.com/in/chun--ye/). <br>
 
 ## Tech Experience
-- Software Engineering Intern, Public Markets @ **CPP Investments**. <br>
+- Software Engineering Intern, Public Markets @ **CPP Investment Board**. <br>
 - Software Engineering Intern @ **Ford Pro**. <br>
 - Software Engineer @ **TechNova**. <br> 
 
