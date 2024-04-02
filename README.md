@@ -1,7 +1,7 @@
 # Hi, I'm Daisy 👋
 
 I study **Computer Science** @ **University of Waterloo** and **Business Administration** @ **Wilfrid Laurier University**. <br>
-I'm actively seeking **2024 SWE** internships in **US/Canada** and open to connections on [LinkedIn](https://www.linkedin.com/in/chun--ye/). <br>
+I'm actively seeking **2025 NG** internships in **US/Canada** and open to connections on [LinkedIn](https://www.linkedin.com/in/chun--ye/). <br>
 
 ## Tech Stack
 **Languages:** Bash, C, C#, C++, Go, Python, Java, JavaScript/TypeScript, R, Scheme, SQL/T-SQL. <br>
@@ -11,7 +11,5 @@ I'm actively seeking **2024 SWE** internships in **US/Canada** and open to conne
 ## Learn More
 - 🌱 Check out my personal website [here](https://daisy-ye.com/)!
 - ⚡ Outside of tech, I enjoy writing poems, sketching, and learning foreign languages.
-- 🤖 I am currently breaking into computer networks and cloud infrastructure.
+- 🤖 I am currently into machine learning and serverless computing.
 - 😄 Pronouns: `She/Her/Hers`
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daisyyedda)](https://github.com/daisyyedda/github-readme-stats)
