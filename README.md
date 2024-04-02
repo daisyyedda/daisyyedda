@@ -14,4 +14,4 @@ I'm actively seeking **2024 SWE** internships in **US/Canada** and open to conne
 - 🤖 I am currently breaking into computer networks and cloud infrastructure.
 - 😄 Pronouns: `She/Her/Hers`
 
-[![Daisy's GitHub stats](https://github-readme-stats.vercel.app/api?username=daisyyedda)](https://github.com/daisyyedda/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daisyyedda)](https://github.com/daisyyedda/github-readme-stats)
