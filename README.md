@@ -1,7 +1,7 @@
 # Hi, I'm Daisy 👋
 
 I study **Computer Science** @ **University of Waterloo** and **Business Administration** @ **Wilfrid Laurier University**. <br>
-I'm actively seeking **2025 NG** internships in **US/Canada** and open to connections on [LinkedIn](https://www.linkedin.com/in/chun--ye/). <br>
+I'm actively seeking **2025 NG SWE** positions in **US/Canada** and open to connections on [LinkedIn](https://www.linkedin.com/in/chun--ye/). <br>
 
 ## Tech Stack
 **Languages:** Bash, C, C#, C++, Go, Python, Java, JavaScript/TypeScript, R, Scheme, SQL/T-SQL. <br>
