@@ -13,3 +13,5 @@ I'm actively seeking **2024 SWE** internships in **US/Canada** and open to conne
 - ⚡ Outside of tech, I enjoy writing poems, sketching, and learning foreign languages.
 - 🤖 I am currently breaking into computer networks and cloud infrastructure.
 - 😄 Pronouns: `She/Her/Hers`
+
+[![Daisy's GitHub stats](https://github-readme-stats.vercel.app/api?username=daisyyedda)](https://github.com/daisyyedda/github-readme-stats)
