@@ -10,6 +10,6 @@ I'm actively seeking **2025 NG SWE** positions in **US/Canada** and open to conn
 
 ## Learn More
 - 🌱 Check out my personal website [here](https://daisy-ye.com/)!
-- ⚡ Outside of tech, I enjoy writing poems, sketching, and learning foreign languages.
+- ⚡ Outside of tech, I enjoy creative writing, sketching, and learning foreign languages.
 - 🤖 I am currently into machine learning and serverless computing.
 - 😄 Pronouns: `She/Her/Hers`
