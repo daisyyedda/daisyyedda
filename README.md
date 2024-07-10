@@ -4,14 +4,13 @@ I study **Computer Science** @ **University of Waterloo** and **Business Adminis
 I'm actively seeking **2025 NG SWE** positions in **US/Canada** and open to connections on [LinkedIn](https://www.linkedin.com/in/chun--ye/). <br>
 
 ## Experience
-**Internship experience:** full-stack, DevOps, algorithmic trading, and network security. <br>
-**Research experience:** natural language processing, human-computer interaction, and serverless computing.
+**Internship experience:** full-stack, DevOps, algorithmic trading, network security. <br>
+**Research experience:** natural language processing, human-computer interaction, serverless computing.
 
 ## Tech Stack
-**AI/ML:** Hugging Face, Jupyter Notebook, Pandas, NumPy, PyTorch, Seaborn. <br>
-**Languages:** Bash, C, C#, C++, Go, Python, Java, JavaScript/TypeScript, R, Scheme, SQL/T-SQL. <br>
-**Frameworks:** Bootstrap, Express.js, GraphQL, Next.js, Node.js, .NET, React, Spring Boot, Vue. <br>
-**Technologies:** AWS, Docker, GCP, Git, Gradle, K8s, Linux, MongoDB, MySQL, Poetry, Postgres, Postman, Terraform. <br>
+**AI/ML Tools**: Hugging Face, Jupyter Notebook, Pandas, NumPy, PyTorch, Seaborn. <br>
+**Languages**: Bash, C, C#, C++, Go, Python, Java, JavaScript/TypeScript, R, Scheme, SQL/T-SQL. <br>
+**Frameworks/Technologies**: AWS, Docker, GCP, Git, Gradle, GraphQL, K8s, Linux, MongoDB, MySQL, Next.js, Node.js, .NET, Postgres, Postman, React, Spring, Terraform, Vue.
 
 ## Learn More
 - 🌱 Check out my personal website [here](https://daisy-ye.com/)!
