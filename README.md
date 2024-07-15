@@ -1,5 +1,7 @@
 # Hi, I'm Daisy 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daisyyedda&label=Profile%20views&color=0e75b6&style=flat" alt="daisyyedda" /> </p>
+
 I study **Computer Science** @ **University of Waterloo** and **Business Administration** @ **Wilfrid Laurier University**. <br>
 I'm actively seeking **2025 NG SWE** positions in **US/Canada** and open to connections on [LinkedIn](https://www.linkedin.com/in/chun--ye/). <br>
 
