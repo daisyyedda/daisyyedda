@@ -1,5 +1,5 @@
 # Hi, I'm Daisy 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daisyyedda&label=Profile%20views&color=0e75b6&style=flat" alt="daisyyedda" /> </p>
-
 I'm a software engineer at **Salesforce** working on infrastructure R&D, and I'm passionate about assistive tech.
+
+Always happy to chat, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/daisy-chun-ye/) or email me at **daisyyedda@gmail.com**.
